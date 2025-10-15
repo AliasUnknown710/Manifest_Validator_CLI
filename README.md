@@ -35,6 +35,8 @@ CLI tool to validate asset presence against a manifest file. Built for deploymen
 
 • 	Paths are relative to the repo root.
 
+
 • 	Extend to support remote URLs, S3 buckets, or KV namespaces.
+
 
 • 	Ideal for static site validation, asset audits, and CI/CD pipelines

@@ -1,0 +1,7 @@
+{
+  "main_css": "static/css/main.css",
+  "logo": "static/img/logo.png",
+  "config": "config/settings.json",
+  "favicon": "static/img/favicon.ico"
+}
+'''Example'''
